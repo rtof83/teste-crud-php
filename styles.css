@@ -1,0 +1,20 @@
+textarea, input {
+    margin: 1rem;
+    border-radius: .5rem;
+}
+
+.form, table {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+table {
+    padding-bottom: 2rem;
+}
+
+body {
+    max-width: 960px;
+    margin: auto;
+}
